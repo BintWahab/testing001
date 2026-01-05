@@ -1,1 +1,3 @@
 echo "print(Hello Git)">app.py
+git add app.py
+git commit -m "initial commit"
